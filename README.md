@@ -24,7 +24,7 @@ ___
 ### Вариант 3
 Имеется задача нелинейного программирования     
 ![equation](https://latex.codecogs.com/svg.latex?x^2_1+3x^2_2-3x_1x_2+x_1-6x_2\xrightarrow{}min)  
-![equation](https://latex.codecogs.com/svg.latex?\begin{cases}%204x_1%20+%203x_2%20\leq%2012%20\\%20-x_1%20+%20x_2%20\leq%201%20\\%20x_1%20\geq%200%20\\%20x_2%20\geq%200%20\end{cases})  
+![equation](http://www.sciweavers.org/upload/Tex2Img_1589630906/render.png)  
 
 Необходимо:
 1) Решить задачу безусловной минимизации градиентными методами
