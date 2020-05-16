@@ -23,7 +23,7 @@ ___
 ## Задача №2
 ### Вариант 3
 Имеется задача нелинейного программирования  
-<img src="http://www.sciweavers.org/tex2img.php?eq=x%5E2_1%20%2B%203x%5E2_2%20-%203x_1x_2%20%2B%20x_1%20-%206x_2%20%5Cxrightarrow%7B%7D%20min&bc=White&fc=Black&im=png&fs=24&ff=arev&edit=0" align="center" border="0" alt="x^2_1 + 3x^2_2 - 3x_1x_2 + x_1 - 6x_2 \xrightarrow{} min" width="592" height="50" />  
+<img src="https://latex.codecogs.com/png.latex?\dpi{400} x^2_1 + 3x^2_2 - 3x_1x_2 + x_1 - 6x_2 \xrightarrow{} min"/>  
 
 <img src="http://www.sciweavers.org/tex2img.php?eq=%5Cbegin%7Bcases%7D%204x_1%20%2B%203x_2%20%5Cleq%2012%20%5C%5C%20-x_1%20%2B%20x_2%20%5Cleq%201%20%5C%5C%20x_1%20%5Cgeq%200%20%5C%5C%20x_2%20%5Cgeq%200%20%5Cend%7Bcases%7D&bc=White&fc=Black&im=png&fs=24&ff=arev&edit=0" align="center" border="0" alt="\begin{cases} 4x_1 + 3x_2 \leq 12 \\ -x_1 + x_2 \leq 1 \\ x_1 \geq 0 \\ x_2 \geq 0 \end{cases}" width="286" height="186" />  
 
